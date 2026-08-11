@@ -4,7 +4,7 @@
 
 **Analysis period:** 2021–2024  
 **Tech stack:** Python · Pandas · NumPy · Power BI · DAX · Excel  
-**Project by:** Rahul Kumar
+**Project by:** Abhishek Kumar
 
 ---
 
@@ -344,7 +344,7 @@ The result is a portfolio-ready demonstration of the full analyst workflow: **da
 
 ## Author
 
-**Rahul Kumar**  
+**Abhishek kumar**  
 Data Analytics Portfolio Project
 
 If you found this project useful, consider starring the repository.
