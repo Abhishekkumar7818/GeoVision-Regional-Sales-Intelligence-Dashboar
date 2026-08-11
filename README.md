@@ -24,7 +24,7 @@ The final report contains a navigation page plus three analytical dashboards:
 
 ### Project files
 
-- [Data Wrangling Notebook](datawrangling%281%29.ipynb)
+- [Data Wrangling Notebook](datawrangling.ipynb)
 - [Power BI Dashboard — PDF](GeoInsights_Dashboard_Complete.pdf)
 - [Final Project Presentation](GeoInsights%20Presentation%20Final.pptx)
 
@@ -312,7 +312,7 @@ flowchart LR
 
 ## How to Explore the Project
 
-1. Start with the [Data Wrangling Notebook](datawrangling%281%29.ipynb) to review data ingestion, cleaning, validation, and feature engineering.
+1. Start with the [Data Wrangling Notebook](datawrangling.ipynb) to review data ingestion, cleaning, validation, and feature engineering.
 2. Open the [Power BI Dashboard PDF](GeoInsights_Dashboard_Complete.pdf) for the complete four-page report snapshot.
 3. Review the [Final Presentation](GeoInsights%20Presentation%20Final.pptx) for the business narrative, findings, and recommendations.
 4. If using the live Power BI report, interact with the Year, Product/Channel, Region, and State slicers to explore performance dynamically.
